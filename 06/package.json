@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lodash.intersection": "^4.4.0"
+  }
+}
